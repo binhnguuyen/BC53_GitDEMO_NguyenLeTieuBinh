@@ -15,3 +15,10 @@ git init
 
 Add link git
 git remote add origin https://github.com/binhnguuyen/bootstrapCapstone.git
+
+
+Dùng lệnh để add thay đổi lên sàn
+git add .
+
+Dùng lệnh để push master lên Git Hub lần đầu
+git push -u origin master

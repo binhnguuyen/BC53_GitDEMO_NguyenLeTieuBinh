@@ -38,5 +38,6 @@ git push
 Dùng lệnh sau để merge branch(phải ở nhánh muốn đc merge vào)
 git merge header
 
-
+Dùng lệnh để tạo nhánh và checkout 1 lần duy nhất
+git checkout -b footer
 

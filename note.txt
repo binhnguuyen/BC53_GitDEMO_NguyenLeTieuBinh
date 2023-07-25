@@ -26,9 +26,17 @@ git push -u origin master
 Dùng lệnh sau để add những file thay đổi thôi
 git add -A
 
+Dùng lệnh sau để xem những nội dung đc thay đổi 
+git commit -m "message"
+
 Dùng lệnh sau để kiểm tra những đoạn code đang thay đổi
 git status
 
-Dùng lệnh sau để xem những nội dung đc thay đổi 
-git commit -m "message"
+Dùng lệnh để đẩy lên remote
+git push
+
+Dùng lệnh sau để merge branch(phải ở nhánh muốn đc merge vào)
+git merge header
+
+
 

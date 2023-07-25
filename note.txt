@@ -1,0 +1,17 @@
+Khai báo tên
+git config --global user.name binhnguyen
+
+Khai báo email
+git config --global user.email leechiupin@gmail.com
+
+Kiểm tra tên
+git config --global user.name
+
+Kiểm tra mail
+git config --global user.name
+
+Tạo repository
+git init
+
+Add link git
+git remote add origin https://github.com/binhnguuyen/bootstrapCapstone.git
